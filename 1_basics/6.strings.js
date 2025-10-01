@@ -1,4 +1,4 @@
-const name = "hitesh"
+const name = "shabad"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
@@ -22,11 +22,11 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-const newStringOne = "   hitesh    "
+const newStringOne = "   shabad    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://shabad.com/shabad%20chahal"
 
 console.log(url.replace('%20', '-'))
 
